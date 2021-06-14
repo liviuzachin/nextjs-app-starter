@@ -1,6 +1,6 @@
 # NextJS App Starter template
 
-This is a starter template for [Next.js](https://nextjs.org/learn), the React framework.
+This is a starter template for [Next.js](https://nextjs.org/learn) - the React framework. This repository contains the starter template for the quick start tutorial.
 Next.js gives you some of the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
 
 ## Installation
